@@ -13,7 +13,7 @@ Throwback to the last Virginia Gubernatorial Election. Election results by count
 ![plot](./va-governor-election/va-governor-election.jpeg)
 
 
-## **Day 4 - Hexagons | Mars Candy Favorites 2021 **
+## **Day 4 - Hexagons | Mars Candy Favorites 2021**
 November 4th is National Candy Day. Dedicating this map to all the Mars candy fans. Snickers is the clear favorite country wide!
 
 ![plot](./candy-hex-map/favorite_mars_candy.jpeg)
