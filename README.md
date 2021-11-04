@@ -11,3 +11,9 @@ This map is a love letter to my better half, Kristen. We spent two years living 
 Throwback to the last Virginia Gubernatorial Election. Election results by county. Data set from the Virgina Department of Elections. Map created using ggplot and R maps library (county map shapes).
 
 ![plot](./va-governor-election/va-governor-election.jpeg)
+
+
+## **Day 4 - Hexagons | Mars Candy Favorites 2021 **
+November 4th is National Candy Day. Dedicating this map to all the Mars candy fans. Snickers is the clear favorite country wide!
+
+![plot](./candy-hex-map/favorite_mars_candy.jpeg)
