@@ -17,3 +17,8 @@ Throwback to the last Virginia Gubernatorial Election. Election results by count
 November 4th is National Candy Day. Dedicating this map to all the Mars candy fans. Snickers is the clear favorite country wide!
 
 ![plot](./candy-hex-map/favorite_mars_candy.jpeg)
+
+## **Day 5 - OpenStreetMap | Basel, Switzerland**
+Used R osmdata library along with ggplot to render a map of my hometown, Basel, Switzerland. 
+
+![plot](./basel-openstreetmap/basel_map_dark_light.png)
