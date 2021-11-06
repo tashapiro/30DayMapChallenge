@@ -172,4 +172,4 @@ ggplot()+
   )
 
 
-ggsave("red_beef_map.jpeg", width = 28.5, height = 16, units='cm')
+ggsave("red_beef_map.jpeg", width = 28.5, height = 15.6, units='cm')
