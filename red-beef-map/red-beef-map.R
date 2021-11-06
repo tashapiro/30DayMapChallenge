@@ -160,14 +160,14 @@ ggplot()+
     legend.position="top",
     text=element_text(color=font_color, family=chart_font),
     plot.title=element_text(family=title_font),
-    plot.margin = unit(c(0.5, 0.5, 0.5, 0.5), "cm")
+    plot.margin = unit(c(0.2, 2.2, 0.1, 2.2), "cm")
   )+
   labs(
-    title="Beef & Buffalo Meat Consumption 2013",
-    subtitle="Consumption based on kg per capita",
+    title="Beef & Buffalo Meat Consumption Rates (2013)",
+    subtitle="Consumption rate based on kg per capita",
     fill="Kg Per Capita",
     caption="Data from OurWorldInData.org | Chart @tanya_shapiro"
   )
 
 
-ggsave("red_beef_map.jpeg", width = 26.5, height = 18, units='cm')
+ggsave("red_beef_map.jpeg", width = 27.8, height = 16, units='cm')

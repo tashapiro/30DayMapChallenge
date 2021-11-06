@@ -22,3 +22,9 @@ November 4th is National Candy Day. Dedicating this map to all the Mars candy fa
 Used R osmdata library along with ggplot to render a map of my hometown, Basel, Switzerland. 
 
 ![plot](./basel-openstreetmap/basel_map_dark_light.png)
+
+
+## **Day 6 - Red | World Beef & Buffalo Consumption by Country (2013)**
+Used R osmdata library along with ggplot to render a map of my hometown, Basel, Switzerland. 
+
+![plot](./red-beef-map/red_beef_map.jpeg)
