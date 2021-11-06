@@ -159,8 +159,10 @@ ggplot()+
     plot.background=element_rect(fill=background),
     legend.position="top",
     text=element_text(color=font_color, family=chart_font),
-    plot.title=element_text(family=title_font),
-    plot.margin = unit(c(0.2, 2.2, 0.1, 2.2), "cm")
+    plot.title=element_text(family=title_font,hjust=.5,
+                            vjust=5),
+    plot.subtitle =element_text(hjust=.5, vjust=5),
+    plot.margin = unit(c(0.8, 4.2, 0.8, 4.2), "cm")
   )+
   labs(
     title="Beef & Buffalo Meat Consumption Rates (2013)",
@@ -170,4 +172,4 @@ ggplot()+
   )
 
 
-ggsave("red_beef_map.jpeg", width = 27.8, height = 16, units='cm')
+ggsave("red_beef_map.jpeg", width = 28.5, height = 16, units='cm')
