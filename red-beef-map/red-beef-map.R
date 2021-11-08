@@ -171,5 +171,7 @@ ggplot()+
     caption="Data from OurWorldInData.org | Chart @tanya_shapiro"
   )
 
+28.5*1.2
+15.6*1.2
 
-ggsave("red_beef_map.jpeg", width = 28.5, height = 15.6, units='cm')
+ggsave("red_beef_map.jpeg", width = 34.2, height = 18.72, units='cm')
