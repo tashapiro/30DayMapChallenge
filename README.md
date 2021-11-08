@@ -25,6 +25,11 @@ Used R osmdata library along with ggplot to render a map of my hometown, Basel, 
 
 
 ## **Day 6 - Red | World Beef & Buffalo Consumption by Country (2013)**
-Used R osmdata library along with ggplot to render a map of my hometown, Basel, Switzerland. 
+
 
 ![plot](./red-beef-map/red_beef_map.jpeg)
+
+## **Day 6, 7, 8 - Red, Green, Blue | RGB Around The World**
+Map explores different red, green, and blue hex colors of flags around the world. Data set created by scraping data from flagpedia.net and analyzing data using colorfindr.
+
+![plot](./flag-rgb-map/world-flag-map.png)
