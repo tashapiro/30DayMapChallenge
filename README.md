@@ -6,7 +6,7 @@ List of map themes by day, taken from the 30DayMapChallenge [home page](https://
 
 | Day | Theme         | Map                                        |
 |:---:|:--------------|:-------------------------------------------|
-| 1   | Points<img width=180/>| [Manhattan Adventures](manhattan-adventures)<img width=420/>  |
+| 1   | Points<img width=160/>| [Manhattan Adventures](manhattan-adventures)<img width=400/>  |
 | 2   | Lines         | -                                          |
 | 3   | Polygons      | [Virginia Gubernatorial Election](va-governor-election)            |
 | 4   | Hexagons      | [Mars Candy Map](candy-hex-map)                               |
