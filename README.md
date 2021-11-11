@@ -1,6 +1,6 @@
 # 30 Day Map Challenge  
 
-## Challenge Summary :world_map:
+## :world_map: &nbsp; Challenge Summary 
 
 List of map themes by day, taken from the 30DayMapChallenge [home page](https://github.com/tjukanovt/30DayMapChallenge), and content produced per challenge. 
 
