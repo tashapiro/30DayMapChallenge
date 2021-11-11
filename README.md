@@ -4,18 +4,18 @@
 
 List of map themes by day, taken from the 30DayMapChallenge [home page](https://github.com/tjukanovt/30DayMapChallenge), and content produced per challenge. 
 
-| Day | Theme         | Map                                        |
-|:---:|:--------------|:-------------------------------------------|
-| 1   | Points<img width=160/>| [Manhattan Adventures](manhattan-adventures)<img width=400/>|
-| 2   | Lines         | -                                          |
-| 3   | Polygons      | [Virginia Gubernatorial Election](va-governor-election)            |
-| 4   | Hexagons      | [Mars Candy Map](candy-hex-map)                               |
-| 5   | OpenStreetMap | [Basel, Switzerland](basel-openstreetmap)                        |
-| 6   | Red           | [Beef Consumption](red-beef-map)                           |
-| 7   | Green         | California Cannabis Dispensaries           |
-| 8   | Blue          | [RGB Flags Around The World](flag-rgb-map)                 |
-| 9   | Monochrome    | -                                          |
-| 10  | Raster        | [Such Great Heights (Altitude Map of Nepal)](raster-nepal-map)|
+| Day | Theme         | Map                                                            | Data                                                                                                                           |
+|:---:|:--------------|:---------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Points        | [Manhattan Adventures](manhattan-adventures)                   | [OpenStreetMap](https://www.openstreetmap.org/)                                                                                |
+| 2   | Lines         | -                                                              | -                                                                                                                              |
+| 3   | Polygons      | [Virginia Gubernatorial Election](va-governor-election)        | [VA Department of   Elections](https://www.elections.virginia.gov/resultsreports/election-results/)                            |
+| 4   | Hexagons      | [Mars Candy Map](candy-hex-map)                                | [Mars Wrigley &   Shipt](https://www.candyindustry.com/articles/89963-whats-your-states-favorite-mars-wrigley-halloween-candy) |
+| 5   | OpenStreetMap | [Basel, Switzerland](basel-openstreetmap)                      | [OpenStreetMap](https://www.openstreetmap.org/)                                                                                |
+| 6   | Red           | [Beef Consumption](red-beef-map)                               | [OurWorldInData.org](https://ourworldindata.org/grapher/beef-and-buffalo-meat-consumption-per-person)                              |
+| 7   | Green         | California Dispensaries                                        | [Department of Cannabis Control CA](https://cannabis.ca.gov/)                                                                  |
+| 8   | Blue          | [RGB Flags Around The World](flag-rgb-map)                     | [flagpediat.net](https://flagpedia.net/)                                                                                       |
+| 9   | Monochrome    | -                                                              |                                                                                                                                |
+| 10  | Raster        | [Such Great Heights (Altitude Map of Nepal)](raster-nepal-map) | [SRTM](https://srtm.csi.cgiar.org/)                                                                                            |
 
 ## **Day 1 & 2 - Points & Lines | [Manhattan Adventures](manhattan-adventures)**
 This map is a love letter to my better half, Kristen. We spent two years living together in New York City, and over those two years we created a lot of great memories. This map outlines some of our favorite date spots and places. Map created using ggplot and OpenStreetMap (osmdata) library.
