@@ -16,6 +16,7 @@ List of map themes by day, taken from the 30DayMapChallenge [home page](https://
 | 8   | Blue          | [RGB Flags Around The World](flag-rgb-map)                     | [flagpediat.net](https://flagpedia.net/)                                                                                       |
 | 9   | Monochrome    | -                                                              |                                                                                                                                |
 | 10  | Raster        | [Such Great Heights (Altitude Map of Nepal)](raster-nepal-map) | [SRTM](https://srtm.csi.cgiar.org/)                                                                                            |
+| 11  | 3D        | [Washington State Rainfall](3D-washington-map) | [NOAA](https://www.ncdc.noaa.gov/cag/county/mapping)                                                                                           |
 
 ## **Day 1 & 2 - Points & Lines | [Manhattan Adventures](manhattan-adventures)**
 This map is a love letter to my better half, Kristen. We spent two years living together in New York City, and over those two years we created a lot of great memories. This map outlines some of our favorite date spots and places. Map created using ggplot and OpenStreetMap (osmdata) library.
@@ -54,4 +55,9 @@ Map explores different red, green, and blue hex colors of flags around the world
 Used altitude data from STRM (raster getData alt) to generate an altitude map of Nepal, home of the tallest mountains.
 
 ![plot](./raster-nepal-map/nepal_map.jpeg)
+
+## **Day 10 - 3D | [Washington State Rainfall](3D-washington-map)**
+First attempt with 3D mapping using #RStats rayshader library. Precipitation data from [NOAA](https://www.ncdc.noaa.gov/cag/county/mapping), county map data from tigris.
+
+![plot](./3D-washington-map/3D-washington-map.png)
 
