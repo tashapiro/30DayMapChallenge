@@ -18,6 +18,7 @@ List of map themes by day, taken from the 30DayMapChallenge [home page](https://
 | 10  | Raster        | [Such Great Heights (Altitude Map of Nepal)](raster-nepal-map) | [SRTM](https://srtm.csi.cgiar.org/)                                                                                            |
 | 11  | 3D        | [Washington State Rainfall](3D-washington-map) | [NOAA](https://www.ncdc.noaa.gov/cag/county/mapping)                                                                                           |
 | 12  | Population | [Population Growth Rate](population-map) | [OurWorldInData.org](https://ourworldindata.org)                                                                                           |
+| 13  | Natural Earth | [Travel Options](natural-earth) | Natural Earth                                                                                  |
 
 ## **Day 1 & 2 - Points & Lines | [Manhattan Adventures](manhattan-adventures)**
 This map is a love letter to my better half, Kristen. We spent two years living together in New York City, and over those two years we created a lot of great memories. This map outlines some of our favorite date spots and places. Map created using ggplot and OpenStreetMap (osmdata) library.
@@ -66,4 +67,9 @@ First attempt with 3D mapping using #RStats rayshader library. Precipitation dat
 Annual population growth rate over time, spans the last 3 decades (1990-2020). Data from OurWorldInData.org.
 
 ![plot](./population-map/population_growth.gif)
+
+## **Day 13 - Natural Earth | [Travel Options](natural-earth)**
+Map of different modes of transportation in United Kingdom, Germany, and Italy. Data from Natural Earth, accsessed using #RStats rnaturalearth library.
+
+![plot](./natural-earth/travel-map.png)
 
