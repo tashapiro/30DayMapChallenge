@@ -19,7 +19,8 @@ List of map themes by day, taken from the 30DayMapChallenge [home page](https://
 | 11  | 3D        | [Washington State Rainfall](3D-washington-map) | [NOAA](https://www.ncdc.noaa.gov/cag/county/mapping)                                                                                           |
 | 12  | Population | [Population Growth Rate](population-map) | [OurWorldInData.org](https://ourworldindata.org)                                                                                           |
 | 13  | Natural Earth | [Travel Options](natural-earth) | Natural Earth                                                                                  |
-| 16  | Urban/Rural | [Queens, NY (Year of Construction)](urban-nyc) | [NYC Planning](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page)                                                                      
+| 16  | Urban/Rural | [Queens, NY (Year of Construction)](urban-nyc) | [NYC Planning](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page)    
+| 19  | Islands | [Staten Island Pizzerias](staten_island) | [OpenStreetMap](https://www.openstreetmap.org/) 
 
 ## **Day 1 & 2 - Points & Lines | [Manhattan Adventures](manhattan-adventures)**
 This map is a love letter to my better half, Kristen. We spent two years living together in New York City, and over those two years we created a lot of great memories. This map outlines some of our favorite date spots and places. Map created using ggplot and OpenStreetMap (osmdata) library.
@@ -80,3 +81,8 @@ Map of buildings by year built in Queens, New York. Data from NYC Planning.
 
 ![plot](./urban-nyc/nyc_urban.jpeg)
 
+
+## **Day 19 - Islands | [Staten Island Pizzerias](staten_island)**
+Map of Staten Island Pizzerias. Data usese OpenStreetMap data from R osmdata package to render the map. Pizzeria data scraped from Google, addressees later used to create geocoordinatee information to overlay points on map.
+
+![plot](./staten_island/staten_island.png)
