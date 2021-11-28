@@ -6,21 +6,20 @@ List of map themes by day, taken from the 30DayMapChallenge [home page](https://
 
 | Day | Theme         | Map                                                            | Data                                                                                                                           |
 |:---:|:--------------|:---------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Points        | [Manhattan Adventures](manhattan-adventures)                   | [OpenStreetMap](https://www.openstreetmap.org/)                                                                                |
-| 2   | Lines         | -                                                              | -                                                                                                                              |
+| 1   | Points        | [Manhattan Adventures](manhattan-adventures)                   | [OpenStreetMap](https://www.openstreetmap.org/)                                                                                                                                                                                                |
 | 3   | Polygons      | [Virginia Gubernatorial Election](va-governor-election)        | [VA Department of   Elections](https://www.elections.virginia.gov/resultsreports/election-results/)                            |
 | 4   | Hexagons      | [Mars Candy Map](candy-hex-map)                                | [Mars Wrigley &   Shipt](https://www.candyindustry.com/articles/89963-whats-your-states-favorite-mars-wrigley-halloween-candy) |
 | 5   | OpenStreetMap | [Basel, Switzerland](basel-openstreetmap)                      | [OpenStreetMap](https://www.openstreetmap.org/)                                                                                |
 | 6   | Red           | [Beef Consumption](red-beef-map)                               | [OurWorldInData.org](https://ourworldindata.org/grapher/beef-and-buffalo-meat-consumption-per-person)                              |
 | 7   | Green         | California Dispensaries                                        | [Department of Cannabis Control CA](https://cannabis.ca.gov/)                                                                  |
-| 8   | Blue          | [RGB Flags Around The World](flag-rgb-map)                     | [flagpediat.net](https://flagpedia.net/)                                                                                       |
-| 9   | Monochrome    | -                                                              |                                                                                                                                |
+| 8   | Blue          | [RGB Flags Around The World](flag-rgb-map)                     | [flagpediat.net](https://flagpedia.net/)                                                                                       |                                                                 |
 | 10  | Raster        | [Such Great Heights (Altitude Map of Nepal)](raster-nepal-map) | [SRTM](https://srtm.csi.cgiar.org/)                                                                                            |
 | 11  | 3D        | [Washington State Rainfall](3D-washington-map) | [NOAA](https://www.ncdc.noaa.gov/cag/county/mapping)                                                                                           |
 | 12  | Population | [Population Growth Rate](population-map) | [OurWorldInData.org](https://ourworldindata.org)                                                                                           |
-| 13  | Natural Earth | [Travel Options](natural-earth) | Natural Earth                                                                                  |
+| 13  | Natural Earth | [Travel Options](natural-earth) | [Natural Earth](https://www.naturalearthdata.com/)                                                                                 |
 | 16  | Urban/Rural | [Queens, NY (Year of Construction)](urban-nyc) | [NYC Planning](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page)    
-| 19  | Islands | [Staten Island Pizzerias](staten_island) | [OpenStreetMap](https://www.openstreetmap.org/) 
+| 19  | Islands | [Staten Island Pizzerias](staten_island) | [OpenStreetMap](https://www.openstreetmap.org/) |
+| 25, 26  | Interactive & Choropleth | [USA - Coronary Disease COD](interactive) | [CDC Wonder API](https://https://wonder.cdc.gov/) 
 
 ## **Day 1 & 2 - Points & Lines | [Manhattan Adventures](manhattan-adventures)**
 This map is a love letter to my better half, Kristen. We spent two years living together in New York City, and over those two years we created a lot of great memories. This map outlines some of our favorite date spots and places. Map created using ggplot and OpenStreetMap (osmdata) library.
@@ -86,3 +85,9 @@ Map of buildings by year built in Queens, New York. Data from NYC Planning.
 Map of Staten Island Pizzerias. Data usese OpenStreetMap data from R osmdata package to render the map. Pizzeria data scraped from Google, addressees later used to create geocoordinatee information to overlay points on map.
 
 ![plot](./staten_island/staten_island.png)
+
+
+## **Day 25, 26 - Interactive Choropleth | [USA Coronary Disease COD](interactive)**
+Interactive choropleth map exploring death rate in the United States attributed to Coronary Disease. Data provided by the CDC Wonder API. Map by state, ability to drill down to county level for each state. Interactive map available [here](https://rpubs.com/tshapiro/coronarydisease).
+
+![plot](./interactive/coronary_map.gif)
