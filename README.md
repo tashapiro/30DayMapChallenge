@@ -90,4 +90,5 @@ Map of Staten Island Pizzerias. Data usese OpenStreetMap data from R osmdata pac
 ## **Day 25, 26 - Interactive Choropleth | [USA Coronary Disease COD](interactive)**
 Interactive choropleth map exploring death rate in the United States attributed to Coronary Disease. Data provided by the CDC Wonder API. Map by state, ability to drill down to county level for each state. Interactive map available [here](https://rpubs.com/tshapiro/coronarydisease).
 
-![plot](./interactive/coronary_map.gif)
+
+<img src="/interactive/coronary_map.gif" width="100%"/>
