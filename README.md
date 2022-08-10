@@ -84,7 +84,7 @@ Map of buildings by year built in Queens, New York. Data from NYC Planning.
 ## **Day 19 - Islands | [Staten Island Pizzerias](staten_island)**
 Map of Staten Island Pizzerias. Data usese OpenStreetMap data from R osmdata package to render the map. Pizzeria data scraped from Google, addressees later used to create geocoordinatee information to overlay points on map.
 
-![plot](./staten_island/staten-island-pizzerias.png)
+![plot](./staten_island/staten-island-pizzeria.png)
 
 
 ## **Day 25, 26 - Interactive Choropleth | [USA Coronary Disease COD](interactive)**
