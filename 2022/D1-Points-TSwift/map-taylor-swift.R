@@ -236,5 +236,5 @@ ggplot()+
 
 
 
-ggsave("tswift.jpeg", height=8, width = 8, unit="in")
+ggsave("map-taylor-swift.jpeg", height=8, width = 8, unit="in")
 
