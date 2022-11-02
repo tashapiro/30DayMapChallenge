@@ -1,0 +1,155 @@
+"Notes"	"State"	"State Code"	"Injury Mechanism & All Other Leading Causes"	"Injury Mechanism & All Other Leading Causes Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	3234	4053348	79.8
+"Total"	"Alabama"	"01"			3234	4053348	79.8
+	"Alaska"	"02"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	272	639957	42.5
+"Total"	"Alaska"	"02"			272	639957	42.5
+	"Arizona"	"04"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	2169	5970084	36.3
+"Total"	"Arizona"	"04"			2169	5970084	36.3
+	"Arkansas"	"05"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	2019	2493922	81.0
+"Total"	"Arkansas"	"05"			2019	2493922	81.0
+	"California"	"06"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	11106	33674108	33.0
+"Total"	"California"	"06"			11106	33674108	33.0
+	"Colorado"	"08"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1474	4916324	30.0
+"Total"	"Colorado"	"08"			1474	4916324	30.0
+	"Connecticut"	"09"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1052	2935043	35.8
+"Total"	"Connecticut"	"09"			1052	2935043	35.8
+	"Delaware"	"10"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	358	784858	45.6
+"Total"	"Delaware"	"10"			358	784858	45.6
+	"District of Columbia"	"11"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	333	618406	53.8
+"Total"	"District of Columbia"	"11"			333	618406	53.8
+	"Florida"	"12"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	8055	16980400	47.4
+"Total"	"Florida"	"12"			8055	16980400	47.4
+	"Georgia"	"13"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	5156	9100469	56.7
+"Total"	"Georgia"	"13"			5156	9100469	56.7
+	"Hawaii"	"15"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	513	1147424	44.7
+"Total"	"Hawaii"	"15"			513	1147424	44.7
+	"Idaho"	"16"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	462	1496395	30.9
+"Total"	"Idaho"	"16"			462	1496395	30.9
+	"Illinois"	"17"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	5053	10628589	47.5
+"Total"	"Illinois"	"17"			5053	10628589	47.5
+	"Indiana"	"18"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	3061	5646476	54.2
+"Total"	"Indiana"	"18"			3061	5646476	54.2
+	"Iowa"	"19"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1297	2602116	49.8
+"Total"	"Iowa"	"19"			1297	2602116	49.8
+	"Kansas"	"20"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1039	2437827	42.6
+"Total"	"Kansas"	"20"			1039	2437827	42.6
+	"Kentucky"	"21"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	2727	3717109	73.4
+"Total"	"Kentucky"	"21"			2727	3717109	73.4
+	"Louisiana"	"22"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	2848	3907772	72.9
+"Total"	"Louisiana"	"22"			2848	3907772	72.9
+	"Maine"	"23"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	450	1058947	42.5
+"Total"	"Maine"	"23"			450	1058947	42.5
+	"Maryland"	"24"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	2409	5086284	47.4
+"Total"	"Maryland"	"24"			2409	5086284	47.4
+	"Massachusetts"	"25"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1780	5723171	31.1
+"Total"	"Massachusetts"	"25"			1780	5723171	31.1
+	"Michigan"	"26"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	4654	8221456	56.6
+"Total"	"Michigan"	"26"			4654	8221456	56.6
+	"Minnesota"	"27"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1244	4719250	26.4
+"Total"	"Minnesota"	"27"			1244	4719250	26.4
+	"Mississippi"	"28"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	2112	2489456	84.8
+"Total"	"Mississippi"	"28"			2112	2489456	84.8
+	"Missouri"	"29"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	3205	5075391	63.1
+"Total"	"Missouri"	"29"			3205	5075391	63.1
+	"Montana"	"30"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	389	862341	45.1
+"Total"	"Montana"	"30"			389	862341	45.1
+	"Nebraska"	"31"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	545	1621950	33.6
+"Total"	"Nebraska"	"31"			545	1621950	33.6
+	"Nevada"	"32"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1501	2584184	58.1
+"Total"	"Nevada"	"32"			1501	2584184	58.1
+	"New Hampshire"	"33"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	450	1105847	40.7
+"Total"	"New Hampshire"	"33"			450	1105847	40.7
+	"New Jersey"	"34"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	2799	7406655	37.8
+"Total"	"New Jersey"	"34"			2799	7406655	37.8
+	"New Mexico"	"35"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	797	1719223	46.4
+"Total"	"New Mexico"	"35"			797	1719223	46.4
+	"New York"	"36"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	6567	16157415	40.6
+"Total"	"New York"	"36"			6567	16157415	40.6
+	"North Carolina"	"37"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	4137	8736990	47.4
+"Total"	"North Carolina"	"37"			4137	8736990	47.4
+	"North Dakota"	"38"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	247	642217	38.5
+"Total"	"North Dakota"	"38"			247	642217	38.5
+	"Ohio"	"39"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	5700	9642780	59.1
+"Total"	"Ohio"	"39"			5700	9642780	59.1
+	"Oklahoma"	"40"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	2518	3321839	75.8
+"Total"	"Oklahoma"	"40"			2518	3321839	75.8
+	"Oregon"	"41"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	994	3451657	28.8
+"Total"	"Oregon"	"41"			994	3451657	28.8
+	"Pennsylvania"	"42"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	5214	10408627	50.1
+"Total"	"Pennsylvania"	"42"			5214	10408627	50.1
+	"Rhode Island"	"44"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	332	872315	38.1
+"Total"	"Rhode Island"	"44"			332	872315	38.1
+	"South Carolina"	"45"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	2541	4211691	60.3
+"Total"	"South Carolina"	"45"			2541	4211691	60.3
+	"South Dakota"	"46"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	340	732788	46.4
+"Total"	"South Dakota"	"46"			340	732788	46.4
+	"Tennessee"	"47"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	4145	5685781	72.9
+"Total"	"Tennessee"	"47"			4145	5685781	72.9
+	"Texas"	"48"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	10983	25261652	43.5
+"Total"	"Texas"	"48"			10983	25261652	43.5
+	"Utah"	"49"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	617	2840086	21.7
+"Total"	"Utah"	"49"			617	2840086	21.7
+	"Vermont"	"50"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	218	498950	43.7
+"Total"	"Vermont"	"50"			218	498950	43.7
+	"Virginia"	"51"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	3002	7176613	41.8
+"Total"	"Virginia"	"51"			3002	7176613	41.8
+	"Washington"	"53"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	2056	6405170	32.1
+"Total"	"Washington"	"53"			2056	6405170	32.1
+	"West Virginia"	"54"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1015	1425136	71.2
+"Total"	"West Virginia"	"54"			1015	1425136	71.2
+	"Wisconsin"	"55"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	2043	4805191	42.5
+"Total"	"Wisconsin"	"55"			2043	4805191	42.5
+	"Wyoming"	"56"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	188	479580	39.2
+"Total"	"Wyoming"	"56"			188	479580	39.2
+"Total"					127420	274181260	46.5
+"---"
+"Dataset: Underlying Cause of Death, 1999-2019"
+"Query Parameters:"
+"Injury Intent: Non-Injury, no intent classified"
+"Injury Mechanism & All Other Leading Causes: Non-Injury: Diseases of Heart"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years"
+"Year/Month: 2019"
+"Group By: State; Injury Mechanism & All Other Leading Causes"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Nov 27, 2021 6:36:26 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2019, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Nov 27, 2021 6:36:26 PM"
+"---"
+Caveats:
+"1. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"2. The population figures for year 2019 are bridged-race estimates of the July 1 resident population, from the Vintage 2019"
+"postcensal series released by NCHS on July 9, 2020. The population figures for year 2018 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2018 postcensal series released by NCHS on June 25, 2019. The population figures for"
+"year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017 postcensal series released by NCHS"
+"on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The"
+"population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal"
+"series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13,"
+"2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011"
+"postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age"
+"groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."
+"3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"4. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
