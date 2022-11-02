@@ -4,7 +4,7 @@ library(ggtext)
 library(maps)
 #set up google account with api
 #enable: Static Maps, Map Embed, Geolocation, Geocoding.
-ggmap::register_google(key="AIzaSyAHTdaOhWw0w_qgF12hTYHZT1Fc7lY0LX8")
+
 
 
 #bike routes
