@@ -33,6 +33,7 @@ The information displayed below is for 2022 #30DayMapChallenge. You can also exp
 ![image](./2022/D1-Points-TSwift/map-taylor-swift.jpeg)
 
 ### Day 2 - Lines \| The Road to Sal
+![image](./2022/D2-Lines-Biking/road-to-sal.jpeg)
 
 ### Day 5 - Ukraine \| Slava Ukraini
 
