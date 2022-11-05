@@ -8,13 +8,13 @@ The information displayed below is for 2022 #30DayMapChallenge. You can also exp
 
 ## :world_map:   Challenge Summary
 
-| Day | **Theme**             | **Map**           | Data Source  |
-|:---:|-----------------------|-------------------|--------------|
-|  1  | Points                | Taylor Swift Tour | Taylor Swift |
-|  2  | Lines                 | \-                |              |
+| Day | **Theme**             | **Map**           | Data Source          |
+|:---:|-----------------------|-------------------|----------------------|
+|  1  | Points                | Taylor Swift Tour | Taylor Swift Events  |
+|  2  | Lines                 | The Road to Sal   | Google Maps & Peloton|
 |  3  | Polygons              | \-                |              |
 |  4  | Color Friday: Green   | \-                |              |
-|  5  | Ukraine               | \-                |              |
+|  5  | Ukraine               | Slava Ukraini     | Natural Earth|
 |  6  | Network               | \-                |              |
 |  7  | Raster                | \-                |              |
 |  8  | Data: Open Street Map | \-                |              |
@@ -31,3 +31,9 @@ The information displayed below is for 2022 #30DayMapChallenge. You can also exp
 ### Day 1 - Points \| Taylor Swift The Eras Tour
 
 ![image](./2022/D1-Points-TSwift/map-taylor-swift.jpeg)
+
+### Day 2 - Lines \| The Road to Sal
+
+### Day 5 - Ukraine \| Slava Ukraini
+
+![image](./2022/D5-Ukraine/slava-ukraini.png)
