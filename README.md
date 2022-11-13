@@ -12,7 +12,7 @@ The information displayed below is for 2022 #30DayMapChallenge. You can also exp
 |:---:|-----------------------|-------------------|----------------------|
 |  1  | Points                | Taylor Swift Tour | Taylor Swift Events  |
 |  2  | Lines                 | The Road to Sal   | Google Maps & Peloton|
-|  3  | Polygons              | \-                |              |
+|  3  | Polygons              | Most Googled NFL Teams  |  Google Trends {gtrendsR}           |
 |  4  | Color Friday: Green   | \-                |              |
 |  5  | Ukraine               | Slava Ukraini     | Natural Earth|
 |  6  | Network               | \-                |              |
@@ -34,6 +34,9 @@ The information displayed below is for 2022 #30DayMapChallenge. You can also exp
 
 ### Day 2 - Lines \| The Road to Sal
 ![image](./2022/D2-Lines-Biking/road-to-sal.jpeg)
+
+### Day 3 - Polygons \| Most Googled NFL Teams
+![image](./2022/D3-Polygons-NFL/nfl-map.jpeg)
 
 ### Day 5 - Ukraine \| Slava Ukraini
 
